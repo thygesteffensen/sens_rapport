@@ -12,3 +12,17 @@
 
 ### Spørgsmål til Sens
 [spørgsmål](https://docs.google.com/document/d/1yaBQQEFFU5M-DnFAUzYxqig0GYOXi3-QfbVT6klWDDM/edit)
+
+
+## Oplæg
+### Video fra oplæg
+[video](https://www.youtube.com/watch?v=2z5QwjhG8Yo&t=1956s)
+
+### Oplæg
+[oplæg](https://drive.google.com/open?id=12PykId4YPUKzE6_We37PXz5Fb6JXFXy8)
+
+### Præsentation
+[præsentation](https://cn.inside.dtu.dk/cnnet/filesharing/download/bdaf6423-f4fa-4218-b0eb-60dedd433043)
+
+## Krav til rapport
+[Krav](https://docs.google.com/document/d/1DmJmFJB4RmoJniuU1t_xTY2QXWls24C8RMcWIo5ivdM/edit#)
