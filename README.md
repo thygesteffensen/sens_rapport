@@ -2,7 +2,7 @@
 
 ## Links til Google Drive/Docs
 ### Fælles Drive mappe med gruppe 4, 5 & 6.
-[Google Drive Mappe](https://drive.google.com/drive/folders/16YiUNI4fdUXNyM8nMeGZgUm8m58C4eL)
+[Google Drive Mappe](https://drive.google.com/drive/folders/16YiUNI4fdUXNyM8nMeGZgUm8m58C4eLq)
 
 ### Kravliste
 [Kravliste](https://docs.google.com/document/d/131-twS1Qr3xZWsxPe_KbtfFCPFyCKTDCdTtfbsa6Ja4/edit)
