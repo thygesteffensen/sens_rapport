@@ -1,11 +1,80 @@
 \documentclass[10pt,a4paper]{article}
+    \usepackage[a4paper, total={6.5in, 8in}, textheight = 700pt]{geometry}
     \usepackage[utf8]{inputenc}
+    \usepackage{fancyhdr}
     \usepackage{listings}
+    % \usepackage{minted}
     \usepackage{amsmath}
     \usepackage{amsfonts}
     \usepackage{amssymb}
     \usepackage{graphicx}
+    \usepackage{wrapfig}
+    \usepackage{caption}
+    \usepackage{subcaption}
+    \usepackage{float}
+    \usepackage[space]{grffile}
+    \usepackage{hyperref}
+    \usepackage{multirow}
+    \usepackage{booktabs}
+    \usepackage{amsmath}
+    \usepackage{multicol}
+    \usepackage{enumitem}
+    \usepackage{pageslts}
+    \usepackage{setspace}
+    \usepackage{color}
+    \usepackage{xcolor}
+    \usepackage{array}
+    \usepackage{enumitem}
+    \usepackage{libertine}
+    \usepackage{lscape}
+    \usepackage{pdfpages}
+    \usepackage{pdflscape}
+    \usepackage{tcolorbox}
+    %% \usepackage[switch, modulo]{lineno}
 
+    %%%%%%%%%%%%% PAGE LAYOUT %%%%%%%%%%%%%
+    %\setstretch{1.25}
+    %\textwidth=16.5cm
+    %\textheight=24cm
+    %\voffset=-60pt
+    %\hoffset=-60pt
+    \setlength{\parindent}{0cm} %No indentation in new paragraph
+    \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+    \pagestyle{fancy}
+    \fancyhf{} 
+    %%%%%%%%%%%%% PAGE LAYOUT %%%%%%%%%%%%%
+    
+    
+    %%%%%%%%%%%%% HEADER / FOOTER %%%%%%%%%%%%%
+    \lhead{Gruppe 13} % Skriv gruppe nummer/navn her
+    \chead{CDIO-Final} % Titel på projektet
+    \rhead{Juni 2018} % Afleverings måned
+    %%%%%%%%%%%%% HEADER / FOOTER %%%%%%%%%%%%%
+    
+    %%%%%%%%%%%%% BEGIN DOCUMENT %%%%%%%%%%%%%
+    \begin{document}
+    \pagenumbering{arabic}
+    \thispagestyle{plain}
+    %%%%%%%%%%%%% BEGIN DOCUMENT %%%%%%%%%%%%%
+    
+    %%%%%%%%%%%%% FRONT PAGE %%%%%%%%%%%%%
+    \input{frontpage.tex}
+    %%%%%%%%%%%%% FRONT PAGE %%%%%%%%%%%%%
+    
+    
+    %%%%%%%%%%%%% TABLE OF CONTENT %%%%%%%%%%%%%
+    \newpage
+    \tableofcontents
+    \cleardoublepage
+    \cfoot{Page \thepage\ of \lastpageref{LastPage}}
+    %%%%%%%%%%%%% TABLE OF CONTENT %%%%%%%%%%%%%
+    
+    %%%%%%%%%%%%% AFTER TABLE OF CONTENT %%%%%%%%%%%%%
+    \setcounter{page}{1}
+    \def\emptyline{\vspace{12pt}}
+     
+    
+    \end{document}
 \begin{document}
 \begin{itemize}
 
