@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/git,latex,visualstudiocode
+.pdf
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
